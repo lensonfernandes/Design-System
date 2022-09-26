@@ -1,4 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 
 .main-heading{
     text-align: center;
+}
+
+
+.font-1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-2{
+    font-family: 'Aboreto', cursive;
+}
+
+
+.font-3{
+    font: 15px 'Lexend Deca', sans-serif;
+}
+/* 
+--primary-color:#02bff8 ;
+--secondary-color: white;
+--fallback-background: #cccccc; 
+
+
+background-image: linear-gradient(to right, #DECBA4, #cae9e9);*/
+
+.color-1{
+    background-color: #838C95;
+}
+
+.color-2{
+    background-color:#2B2B2B ;
+}
+
+.color-3{
+    background-color:grey ;
+}
+
+
+.extra-1{
+    background: url(./asset/aerial.jpg);
+}
+
+
+.extra-2{
+    background: url(./asset/dog.jpg);
+}
+
+
+.extra-3{
+    background: url(./asset/leaf.jpg);
 }
